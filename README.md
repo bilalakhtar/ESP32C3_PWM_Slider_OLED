@@ -32,14 +32,6 @@ This project enables PWM control on an ESP32-C3 microcontroller using a **web-ba
   ├── README.md ← Project documentation 
 </pre>
 
-
-
-ESP32C3_PWM_Slider_OLED/
-
-├── ESP32C3_PWM_Slider_OLED.ino
-
-├── README.md
-
 ---
 
 ## 🚀 Getting Started
