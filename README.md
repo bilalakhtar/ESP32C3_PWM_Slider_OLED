@@ -19,7 +19,7 @@ This project enables PWM control on an ESP32-C3 microcontroller using a **web-ba
 ## 🔧 Hardware Used
 
 - ✅ [ESP32-C3 Dev Module](https://www.espressif.com/en/products/socs/esp32-c3)
-- ✅ SH1106-compatible 128x64 OLED display (I2C)
+- ✅ SSD1306-compatible 72x40 OLED display (I2C)
 - ✅ Potentiometer (connected to A0)
 - ✅ Any device with a web browser (phone/laptop)
 
