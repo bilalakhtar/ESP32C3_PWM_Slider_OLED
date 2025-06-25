@@ -48,12 +48,9 @@ This project enables PWM control on an ESP32-C3 microcontroller using a **web-ba
 ### 2. Connect to ESP Access Point
 
 - After upload, connect your phone or PC to the AP:
-SSID: own5
-Password: esp82661234
+- SSID: c3_pwn
+- Password: esp321234
 
-yaml
-Copy
-Edit
 - Open browser and go to: `http://192.168.4.1`
 
 
