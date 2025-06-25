@@ -20,8 +20,17 @@ This project enables PWM control on an ESP32-C3 microcontroller using a **web-ba
 
 - ✅ [ESP32-C3 Dev Module](https://www.espressif.com/en/products/socs/esp32-c3)
 - ✅ SSD1306-compatible 72x40 OLED display (I2C)
-- ✅ Potentiometer (connected to A0)
+- ✅ 10K Potentiometer (connected to A0)
 - ✅ Any device with a web browser (phone/laptop)
+
+### 🛠️ Connect It Like This (ESP32-C3):
+Pot Pin	Connect To (ESP32-C3)
+VCC	3.3V
+A0	GPIO 0 (or A0)
+GND	GND
+
+Important: The ESP32-C3 analog input range is 0–3.3V, so do NOT connect to 5V.
+
 
 ---
 
